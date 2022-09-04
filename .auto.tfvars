@@ -1,7 +1,7 @@
 
 region = "us-east-2"
 
-environment = "Development"
+environment = "Infrastructure"
 
 vpc_cidr = "10.0.0.0/16"  # 65536 private ip addresses
 
